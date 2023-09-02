@@ -1,0 +1,25 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{background-color: rgb(249, 230, 206);}
+
+header {text-align: center;
+padding: 24px;}
+
+h1 {margin-bottom: 12px;}
+
+hr {border: 0.5px solid black;}
+
+main {padding: 24px;
+font-size: 24px;
+color: rgb(92, 91, 91);
+display: flex;
+gap: 64px;
+}
+
+
+input {margin-bottom: 24px;
+margin-right: 12px;}
+
+label:hover {color: red;}
